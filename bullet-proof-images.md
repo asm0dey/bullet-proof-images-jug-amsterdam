@@ -10,7 +10,7 @@ drawings:
 transition: fade
 title: "Mission Possible: The 45-Minute Path to Bullet-Proof Java Container Images"
 info: |
-  JCON @BTC 2026 - Pasha Finkelshteyn, BellSoft
+  JUG Amsterdam 2026 - Pasha Finkelshteyn, BellSoft
 fonts:
   sans: Inter
   mono: JetBrains Mono
