@@ -57,7 +57,7 @@ layout: full
 class: fullbleed zone-upper
 ---
 
-<div class="bg-image" style="background-image:url(/illustrations/slide-03.jpg)"></div>
+<img class="bg-image" src="/illustrations/slide-03.jpg" alt="" />
 
 <div class="scrim"></div>
 
@@ -181,7 +181,7 @@ layout: full
 class: fullbleed zone-upper
 ---
 
-<div class="bg-image" style="background-image:url(/illustrations/slide-09.jpg)"></div>
+<img class="bg-image" src="/illustrations/slide-09.jpg" alt="" />
 
 <div class="scrim"></div>
 
@@ -591,7 +591,7 @@ layout: full
 class: fullbleed zone-lower
 ---
 
-<div class="bg-image" style="background-image:url(/illustrations/slide-27.jpg)"></div>
+<img class="bg-image" src="/illustrations/slide-27.jpg" alt="" />
 
 <div class="scrim"></div>
 
@@ -673,7 +673,7 @@ layout: full
 class: fullbleed zone-lower
 ---
 
-<div class="bg-image" style="background-image:url(/illustrations/slide-31.jpg)"></div>
+<img class="bg-image" src="/illustrations/slide-31.jpg" alt="" />
 
 <div class="scrim"></div>
 
@@ -1095,7 +1095,7 @@ layout: full
 class: fullbleed zone-upper
 ---
 
-<div class="bg-image" style="background-image:url(/illustrations/slide-49.jpg)"></div>
+<img class="bg-image" src="/illustrations/slide-49.jpg" alt="" />
 
 <div class="scrim"></div>
 
@@ -1153,7 +1153,7 @@ layout: full
 class: fullbleed zone-lower
 ---
 
-<div class="bg-image" style="background-image:url(/illustrations/slide-53.jpg)"></div>
+<img class="bg-image" src="/illustrations/slide-53.jpg" alt="" />
 
 <div class="scrim"></div>
 

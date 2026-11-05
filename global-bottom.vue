@@ -9,7 +9,7 @@
        spans 3-4 and returns for 27-29, and a per-slide <audio> would restart it.
        Driven by Slidev's own nav state rather than by DOM poking. Optional by
        design - if the venue has no audio, nothing else in the deck changes. -->
-  <audio ref="bed" src="/audio/ambient-sealed-room.mp3" loop preload="auto" />
+  <audio ref="bed" loop preload="auto"><source src="/audio/ambient-sealed-room.mp3" type="audio/mpeg" /></audio>
 </template>
 
 <script setup>
