@@ -1159,6 +1159,11 @@ class: fullbleed zone-lower
 
 <h1 class="overlay-title">Mission accomplished. For today.</h1>
 
+<div class="absolute top-8 right-8 bg-white p-3 rounded text-center text-black text-sm font-bold">
+  <img src="/qr-slides.png" alt="QR code: the slides" class="w-40 h-40" />
+  Slides
+</div>
+
 <!--
 closes the image you opened with
 -->
