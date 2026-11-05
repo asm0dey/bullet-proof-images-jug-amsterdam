@@ -2,7 +2,7 @@
   <!-- deck-wide footer, per design_rules.footer.pattern '@handle | #conference | #topic'.
        Suppressed on full-bleed art, the cover, the blackout and the bio slide. -->
   <footer v-if="!hideFooter" class="deck-footer">
-    <a href="https://asm0dey.site" target="_blank">https://asm0dey.site</a> <span class="sep">|</span> #JUGAmsterdam <span class="sep">|</span> #containers
+    <a href="https://asm0dey.site" target="_blank">https://asm0dey.site</a> <span class="sep">|</span> #AmsterdamJUG <span class="sep">|</span> #containers
   </footer>
 
   <!-- Ambient bed. ONE persistent element so it survives slide changes: the bed
